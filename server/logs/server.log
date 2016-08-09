@@ -1,0 +1,10 @@
+[06:03:08] INFO: Starting WebsiteHandler on port 80
+[06:03:15] INFO: "GET / HTTP/1.1" 200 -
+[06:03:15] INFO: "GET /assets/style.css HTTP/1.1" 200 -
+[06:03:15] INFO: code 404, message File not found
+[06:03:15] INFO: "GET /favicon.ico HTTP/1.1" 404 -
+[06:03:19] WARNING: Keyboard Interrupt. Shutting down
+[06:04:07] INFO: Starting WebsiteHandler on port 80
+[06:04:10] WARNING: Keyboard Interrupt. Shutting down
+[06:04:32] INFO: Starting WebsiteHandler on port 80
+[06:04:40] WARNING: Keyboard Interrupt. Shutting down
